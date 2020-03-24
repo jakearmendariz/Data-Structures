@@ -1,0 +1,24 @@
+README
+Assignment 3
+
+Jake Armendariz
+1650932
+12B
+2.21.19
+
+Assignment 3
+I decided to turn in this file late because I was worried that my program wouldn't be able to take input from a textfile
+However I learned that Unix handles that for me so that was mostly a waste. I did fix my input length method so maybe it was worth the late submission
+Either way thank you.
+
+In this assignment there is 2 header files, 2 source files and one makefile
+The makefile creates an executable BST. When you run this it will create a simple Ui that you can use to create
+edit and delete a BST and all of it's elements. It handles all errors of input and is pretty self explanatory.
+With the "help" command one can see all of the possible commands. The input for each node is limited to a 150
+string. If it goes over the program handles it on it's own. The BST.h holds all modifyers. 
+BST.c implements them. BSTUTI.h has all of the constants and prompts to make it easier to read the BSTClient.c 
+All incorrect input is handeled within BSTClient.c so that no input will cause an exepected ending of the program :)
+Thanks!
+
+
+

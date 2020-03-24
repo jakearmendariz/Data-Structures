@@ -1,0 +1,11 @@
+README
+Lab2 
+@author - Jake Armendariz
+1650932
+12M
+Completed on January 17
+
+In lab2 I created the FileReverse.c program which intakes strings from the "in" file. It
+then outputs the words in reversed form on different lines to the "out" file. If the
+input contains a word that is larger than 256 chars the program will crash. The make
+file creates an executable binary file called FileReverse and includes a clean utulity. 

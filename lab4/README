@@ -1,0 +1,16 @@
+README
+lab4 12M
+
+Jake Armendariz 1650932
+2.15.19
+
+Contents
+lab4 conatins a makefile, Block.h/c Blockchain.h/c and a BlockchainClient.c
+The makefile produces an executable called BlockchainClient
+
+Description
+This project should demonstrate how we can link objetcts using arrays
+It contains no real value other than gaining knowlege on the topic
+It ouputs to a textfile in the command line prompt
+Takes no update and it can handle a max of 100 Blocks inside of the chain
+Thank you!

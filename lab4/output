@@ -1,0 +1,29 @@
+putting in first block = 1
+0:one
+putting in second block = 2
+0:one
+1:two
+putting in third block = 3
+how many total blocks now? = 3
+0:one
+1:two
+2:three
+find block 1
+1:two
+0:one
+1:two
+2:three
+valid = 1printing each block through block print calls 
+0:one
+1:two
+2:three
+about to remove last block
+removed last block
+0:one
+1:two
+putting in block should have 3 in the chain, 3
+after appending a 3rd element with name five
+after append and bad chain valid = 1
+0:one
+1:two
+2:five

@@ -1,0 +1,14 @@
+Lab 5
+
+Jake Armendariz
+lab 5
+Bhatti
+12M
+
+This project is very late because I got a concussion. Proffessor Bhatti knows.
+
+Description:
+Lab5 makes expression trees using postfix notation. It creates a tree and then it will write it out
+in nornmal algebraic notations. It will produce a result once finished. The program requires 3 soource files:
+stack.c, ExpTree.c and ExpTreeClient.c header files: ExpTree Stack.h with a Makefile 
+that will create an executable called PostFixCalculator to run all of it.

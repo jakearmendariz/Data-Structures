@@ -1,0 +1,21 @@
+Jake Armendariz
+1650932
+12M lab 1
+Due on Wednesday January 16th
+
+1. One option using tar is to put %tar cf mycode.tar mycode/
+another option is % zip -r mycode.zip mycode
+
+2. To list the contents of the archive put %tar t mycode.tar mycode/
+I belived %unzip -l mycode.zip
+
+
+3. To extract the files % tar xf mycode.tar
+This also works
+%mkdir temporaryFile
+%unzip mycode.zip -d temporaryFile
+
+
+
+This lab contains two Java programs, HelloUser.java and HelloUser2.java
+These are simple programs outputting text to the console, their main purpose is to demonstrate the use of jar files and other essential parts of programing.

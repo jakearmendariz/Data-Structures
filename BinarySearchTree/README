@@ -1,0 +1,22 @@
+README
+Assignment 3
+
+Jake Armendariz
+1650932
+12B
+3.2.19
+
+Description
+In this assignment there is 2 header files:BST.h defining methods for a BST and BSTUI.h which contains many constants
+for the program, 2 source files BST and BSTClient.c which controls he user interface and one makefile
+The makefile creates an executable BST. When you run this it will create a simple UI that you can use to create
+edit and delete a BST and all of it's elements. It handles all errors of input and is pretty self explanatory.
+With the "help" command one can see all of the possible commands. The input for each node is limited to a 150
+string. If it goes over the program handles it on it's own. The BST.h holds all modifyers. 
+BST.c implements them. BSTUTI.h has all of the constants and prompts to make it easier to read the BSTClient.c 
+All incorrect input is handeled within BSTClient.c so that no input will cause an exepected ending of the program :)
+Different to previoous version in assignment three, this one contains a function to delete individual nodes.
+Thanks!
+
+
+

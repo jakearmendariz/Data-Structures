@@ -1,0 +1,11 @@
+insert Jake
+insert Eddie
+insert Scarlett
+insert Danny
+insert Ezra
+insert Rishika
+insert Thomas
+print inorder
+delete Eddie
+print inorder
+quit

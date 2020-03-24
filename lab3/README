@@ -1,0 +1,18 @@
+Jake Armendariz
+1650932
+12M
+Lab3
+Due on January 25, 2019
+
+a. When struct_test.c is run multiple times the addresses change
+
+b. For the original rider_st 12 bytes of memory are allocated.
+
+c. For the extended rider_st 20 bytes of memory are allocated, 4 bytes for each additional int value.
+
+lab3 contains two c programs. struct_test.c is just a program practicing proper use of structures, with and
+without pointers. charType.c takes two command line arguments, input, output file. It will ouput the contents
+of the input file to the output file seperating each line out and numbering each type of character. The 
+Makefile compiles charType.c and removes charType.o. It also has a valgrind target.  Thank you!
+
+PS: I left in the input and output file but I am not sure if I was suppose to, sorry for the inconvience if it is one.

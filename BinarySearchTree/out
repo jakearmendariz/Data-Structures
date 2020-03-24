@@ -1,0 +1,44 @@
+Unrecognized command "add"
+Enter "help" for description of each command
+Available commands are:
+delete <string>        -- delete the node with the value <string>
+erase                  -- erase the current tree
+find <string>          -- see if <string> is in the tree
+height                 -- print the height of the tree
+help                   -- print this list of commands
+insert <string>        -- insert <string> into the tree
+print [inorder|preorder|postorder]    -- print tree in specified order
+quit                   -- quit the program
+Command requires an argument
+Enter "help" for description of each command
+OK
+Invalid character (decimal value 7) in string
+OK
+Duplicate string "cat"
+OK
+Found "cat"
+Found "cat"
+Deleted "cat"
+OK
+Could not find "rat" to delete
+Could not find "rat"
+Unexpected text after "cat" argument. 
+Enter "help" for description of each command
+OK
+Unexpected text after "height" command. 
+Enter "help" for description of each command
+Height = 3
+Unrecognized argument "outoforder"
+Enter "help" for description of each command
+bird+box
+Bottle_Brush
+horse
+Zebra!
+OK
+OK
+OK
+OK
+Deleted "apple"
+Found "aaa"
+aaa
+bat
